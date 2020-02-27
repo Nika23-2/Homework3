@@ -1,0 +1,52 @@
+.greenu{
+    color: green;
+    text-decoration: underline
+}
+.blueu{
+    color: blue;
+    text-decoration: underline;
+}
+.images{
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    background-color: white;
+    background-size: 80%;
+}
+.bg{
+    background-image: url(Suratebi/bigstock-background-digital-image-of-wo-61137458-1.jpg);
+    background-size: 100%;
+}
+#image{
+    height: 150px;
+    width: 500px;
+}
+.image{
+    height: 120px;
+    width: 350px
+}
+.blacku{
+    color: black;
+    text-decoration: underline;
+}
+.image1{
+    height: 180px;
+    width: 400px
+}
+.image3{
+    height: 200px;
+    width: 400px;
+}
+.image4{
+    height: 200px;
+    width: 200px;
+}
+.image5{
+    height: 200px;
+    width: 300px;
+}
+.image6{
+    height: 300px;
+    width: 400px;
+}
+
