@@ -49,4 +49,40 @@
     height: 300px;
     width: 400px;
 }
-
+.gradient{
+    background-image: linear-gradient( to left, red, green,blue);
+}
+div{
+    width: 200px;
+    height: 200px;
+    border: 3px solid;
+    float:left;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+.tag{
+    background-color: #808080;
+    width: 950px;
+    height: 400px;
+}
+.gradient1{
+    background-image: linear-gradient( red, green,blue);
+}
+.gradient2{
+    background-image: linear-gradient( to left top, red, green,blue);
+}
+.gradient3{
+    background-image: linear-gradient( to  bottom left , red 40%, green 10%,blue 50%);
+}
+.gradient4{
+    background-image: radial-gradient(  red , green,blue);
+}
+.gradient5{
+    background-image: radial-gradient(  red 60% , green 5%,blue );
+}
+.gradient6{
+    background-image: repeating-radial-gradient(red 50%,green 10%, blue )
+}
+.gradient7{
+    background-image: radial-gradient(red 20%,green 20%,blue 30%)
+}
